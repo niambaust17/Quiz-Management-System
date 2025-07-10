@@ -1,0 +1,42 @@
+[
+  {
+    "answerkey": 4,
+    "option 3": "System Testing",
+    "option 4": "Debugging",
+    "question": "Which of the following is not a level of software testing?",
+    "option 1": "Unit Testing",
+    "option 2": "Integration Testing"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Load Testing",
+    "option 4": "Unit Testing",
+    "question": "Which is not part of system testing?",
+    "option 1": "Regression Testing",
+    "option 2": "Sanity Testing"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Static Testing",
+    "option 4": "Integration Testing",
+    "question": "Which testing is done without executing the code?",
+    "option 1": "Functional Testing",
+    "option 2": "Dynamic Testing"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Clients",
+    "option 4": "Beta testers",
+    "question": "Who performs alpha testing?",
+    "option 1": "End users",
+    "option 2": "QA team internally"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "JUnit",
+    "option 4": "Postman",
+    "question": "Which one is a performance testing?",
+    "option 1": "Selenium",
+    "option 2": "JMeter"
+  }
+]
