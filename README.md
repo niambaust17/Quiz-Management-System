@@ -50,5 +50,5 @@ Data is stored in:
 | Admin   | `admin`  | `1234`   |
 | Student | `salman` | `1234`   |
 
-## Demo
-📁 [Watch on Google Drive](https://drive.google.com/file/d/1KTME1Mf-eJ-Kv-CpXrCXizobRHkvmh_2/view?usp=drive_link)
+## Demo Output
+[<video src="https://user-images.githubusercontent.com/.../video.mp4" controls></video>](https://github.com/user-attachments/assets/feac919f-9dd8-46ba-a9bc-24234130158a)
